@@ -1,8 +1,16 @@
 ---
-layout: post
-title: "Heading Template"
+layout: {{ layout }}
+title: {{ title }}
+modified:
+categories: {{ dir }}
+excerpt:
+tags: []
 published: False
-tags: [tag1, tag2]
+image:
+  feature:
+  teaser:
+  thumb:
 ---
+
 
 # Not published
