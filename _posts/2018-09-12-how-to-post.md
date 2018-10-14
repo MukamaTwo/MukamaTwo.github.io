@@ -1,5 +1,5 @@
 ---
-layout: artical
+layout: article
 title: "Heading tests"
 published: True
 comments: true
