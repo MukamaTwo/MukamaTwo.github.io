@@ -2,14 +2,26 @@
 # see description here: https://tuananh.org/2014/08/13/localization-with-jekyll/
 
 locales:
+  # Swedish translation
+  # -------------------
+  sv: &DEFAULT_SE
+    overview: "Översikt"
+    toc: "Innehållsförteckning"
+    written_by: "Skriven av"
+    updated: "Uppdaterad:"
+    share: "Dela på"
+  sv_SE:
+    <<: *DEFAULT_SE     # use Swedish translation for sv_SE
+
   # English translation
   # -------------------
   en: &DEFAULT_EN
-    overview: "Overview"
-    toc: "Table of Contents"
-    written_by: "Written by"
-    updated: "Updated"
-    share: "Share on"
+    <<: *DEFAULT_SE     # load Swedish values as default
+    # overview: "Overview"
+    # toc: "Table of Contents"
+    # written_by: "Written by"
+    # updated: "Updated"
+    # share: "Share on"
   en_US:
     <<: *DEFAULT_EN     # use English translation for en_US
   en_UK:
@@ -18,7 +30,7 @@ locales:
   # German translation
   # -------------------
   de: &DEFAULT_DE
-    <<: *DEFAULT_EN     # load English values as default
+    <<: *DEFAULT_SE     # load Swedish values as default
     overview: "&Uuml;bersicht"
     toc: "Inhalt"
     written_by: "Verfasst von"
@@ -30,7 +42,7 @@ locales:
   # French translation (TODO)
   # -------------------
   fr: &DEFAULT_FR
-    <<: *DEFAULT_EN     # load English values as default
+    <<: *DEFAULT_SE     # load Swedish values as default
     overview: "Aperçu"
     toc: "Table des matières"
     written_by: "Écrit par"

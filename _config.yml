@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "Mukama 'The second' WIP"
+title: "Mukama II - Genom mina ögon"
 description: "Here we are, FINALLY!."
 logo: bio-photo.png # 120x120 px default image used for Twitter summary card
 teaser: bio-photo.png # 400x250 px default teaser image used in image archive grid
@@ -27,7 +27,7 @@ gems:
 # Site owner
 owner:
   name: mukama_2
-  email: 
+  email:
   twitter: mukama_2
   instagram: mukama_2
   google:

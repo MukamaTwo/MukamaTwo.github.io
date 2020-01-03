@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Några information >>
 
-### More Information
-
-Additional info.
+Mer info >>
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jmuk06\<at>gmail\<dot>com](mailto:jmuk06@gmail.com)

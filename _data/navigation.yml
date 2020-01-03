@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title: Home
+- title: Startsida
   url: /
   excerpt:
   image:
 
 
-- title: About
+- title: Om Jag
   url: /about/
   excerpt:
   image:
