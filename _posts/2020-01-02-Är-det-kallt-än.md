@@ -7,24 +7,26 @@ tags: [kall, hav, bastu, kallbad]
 ---
 
 
-```
-Förraveckan;
+> ##### Förraveckan
+>
+> *Jag* : Jag blev inbjuden till kallbadhuset nästa veckan. <br>
+> *Fru* : Vad är det för nånting? <br>
+> *Jag* : Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och 'springa' till bastun, tror jag! <br>
+&nbsp;&nbsp;&nbsp;&nbsp;>> *Då jag återberättade hur det går med bastun och går ner i havet och hur lite 'klädd' man är - eller inte.* <br>
+> *Fru* : Så konstigt! Det går inte för mig! Ha det kullt.
 
-Jag: Jag fick en inbjudning till kallbadhuset nästa veckan.
-
-Fru: Vad är det för nånting?
-
-Jag: Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och 'springa' till bastun,
-tror jag!
-
-Då jag återberättade hur det går med bastun och går ner i havet och hur lite 'klädd' man är
-- eller inte.
+> ##### Ett par dagar senare
+>
+> *Jag* : Nästa vecka ska jag hoppa i havet. <br>
+> *Ddebi* : Oj oj oj! Du är galen som min man. <br>
+> *Ddiba (Ddebis sötpatatis)* : Tänk om känslor från din bästa massage och multiplicerar de där känslorna tio gånger. Nu vet du! <br>
+> *Jag* : Vad kul! Punkt och slut!
+>
+> *OBS: Ddebi och Ddiba är* [nollåttorna](https://sv.wikipedia.org/wiki/Noll%C3%A5tta){:target="_blank"}.
 
 ### Kallbadhuset
-Fru: Så konstigt! Det går inte för mig! Ha det kullt.
-```
 
-Idag började som en vanlig dag; vakna upp, stiga upp, duscha mig, äta frukost, på ingen speciell ordning men idag fanns också en förändring av hjärta för min fru. Vi gick tillsammans till kallbadhuset på ribban i Malmö för att njuta av vinterns kallbad. För [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg){:target="_blank"}s skull det är bara en tjugo minut promenad från Kronprinsen där vi bör. Det var inte så kallt som man en vanlig vinterdag (4-5 grader) och blåsade inte mycket heller.
+Idag började som en vanlig dag; vakna upp, stiga upp, duscha mig, äta frukost, på ingen speciell ordning men idag fanns också en förändring av hjärta för min fru. Vi gick tillsammans till [Riberborgs kallbadhuset](https://www.ribersborgskallbadhus.se/){:target="_blank"} i Malmö för att njuta av vinterns kallbad. För [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg){:target="_blank"}s skull det är bara en tjugo minut promenad från Kronprinsen där vi bör. Det var inte så kallt som man en vanlig vinterdag (4-5 grader) och blåste inte mycket heller.
 
 På kallbadhuset betalade vi på reception och gick på olika håll. Hon gick mot damerna till höger och jag gick mot herrar till vänster.
 
