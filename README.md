@@ -1,14 +1,31 @@
-# Skinny Bones Jekyll Starter
+# Personal Blog: The Attempt
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+## What
 
-I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
+Trying out personal blogging. Expose the yourself!
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
+## Why
 
----
+Using this as  platform to not only blog but also after failing butt-down in swedish alphabet, I skip it to practice the easier Swedish writing of my fun, and Swedish experiences. Det är dags!
 
-## Notable Features
+## Who
+
+Inspired by the all-time [Dota 2](https://thealliance.gg/) fun and friend all teh way from [Jakarta](https://en.wikipedia.org/wiki/Jakarta), the man known to the inner circle as [Mr. T](http://yanuartadityan.github.io/). Wait a minute!!! Does he not look like [Mr. T](https://en.wikipedia.org/wiki/Mr._T).
+
+## How
+
+The project is based on the *now archived* `Skinny Bones Jekyll Starter`contribution by [Michael Rose](https://github.com/mmistakes). I forked the project more than a year ago but looking it now, it is more-or-less the same.
+
+## Where
+
+To learn more about how to use the theme and install it check out the [Skinny Bones demo](https://mmistakes.github.io/jekyll-theme-skinny-bones/).
+
+![Skinny Bones demo](images/skinny-bones-demo.gif "Skinny Bones demo")
+
+
+## Är det allt?
+
+Notable Features of the base framework include
 
 * Jekyll 3.x and GitHub Pages compatible.
 * Stylesheet built using Sass.
