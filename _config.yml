@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "Mukama II - Genom mina ögon"
+title: "Genom Josefssons ögon"
 description: "Here we are, FINALLY!."
 logo: bio-photo.png # 120x120 px default image used for Twitter summary card
 teaser: bio-photo.png # 400x250 px default teaser image used in image archive grid
@@ -35,7 +35,7 @@ owner:
     ad-slot:
   bio:
   avatar: bio-photo-small.jpg # 160x160 px image for author byline
-  disqus-shortname: mukama_2
+  disqus-shortname: https-mukamatwo-github-io
 
 
 include:
