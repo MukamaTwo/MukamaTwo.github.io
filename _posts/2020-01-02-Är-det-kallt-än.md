@@ -58,6 +58,17 @@ Efter bastun, den fjärde gången, gick jag och Mike inn i en vedeldad badtunna 
 
 Det var 20-30 minuter i badtunna.
 
+#### Kvällens avslutning
+
+Därefter samlade vi på *Restaurang Ribersborg* och umgås medan vi drack ett par öl. Det var jätteroligt att höra av min frus upplevelse. Det var ju mer intressant för henne än jag eftersom hon trodde att hon kunde aldrig någonsin hoppa i kallt havet. Kvällen slutade på *[Bronx Burgers](https://bronxburgers.se/)* i Centrala Malmö där jag åt min bästa vegansk burgare (Beyond Luleå).
+
+### Var ligger Ribersborgs kallbadhuset
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9016.093192695429!2d12.967147460043678!3d55.60160818229347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4653a6a667a5ce0f%3A0x2612925a8f0058b6!2sRibersborgs%20Kallbadhus!5e0!3m2!1ssv!2sse!4v1578011036765!5m2!1ssv!2sse" width="800" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
+### Vad nu?
+
+Ett tio gång klippkort? Kanske kanske. Vi hörs snart! :D
+
+
+Tack för att du läser!
