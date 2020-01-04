@@ -6,7 +6,6 @@ comments: true
 tags: [kall, hav, bastu, kallbad]
 ---
 
-
 > ##### Förraveckan
 >
 > *Jag* : Jag blev inbjuden till kallbadhuset nästa veckan. <br>
@@ -53,7 +52,7 @@ Vi gick till bastun och en stund i kallt havet för två gånger till. På varje
 
 #### Vedeldad badtunna upplevelse
 
-Efter bastun, den fjärde gången, gick jag och Mike inn i en vedeldad badtunna (se liknande bild nedanför). Det var min första gången någonsin och det kändes jättejättkul. Luften var kall som förra men vattnet var lagom varmt och jag satt i en av de två hörnen i badtunnan. Vatten skjutade fram till min ryggen och det kändes som en mild massage. Det är ju sant att '*lagom är bäst*'. Jag kollade upp och kunde inte ser några fåglar i himlen. Himlen var nu mörkt så där, så jag stängde ögonen och lyssnade till mina inner känslor. Jag blev en med känslor och de var en med jag! All för en och en för all. En sådan stund, utan något runt, bara jag och mina känslor i luften, i rymden!
+Efter bastun, den fjärde gången, gick jag och Mike inn i en vedeldad badtunna (se liknande bild nedanför). Det var min första gången någonsin och det kändes jättejättekul. Luften var kall som förra men vattnet var lagom varmt och jag satt i en av de två hörnen i badtunnan. Vatten skjutade fram till min ryggen och det kändes som en mild massage. Det är ju sant att '*lagom är bäst*'. Jag kollade upp och kunde inte ser några fåglar i himlen. Himlen var nu mörkt så där, så jag stängde ögonen och lyssnade till mina inner känslor. Jag blev en med känslor och de var en med jag! All för en och en för all. En sådan stund, utan något runt, bara jag och mina känslor i luften, i rymden!
 
 > *En man*:  Ursäkta! Ursäkta! Finns det en plats till i badtunnan? <br>
 > *Jag* : Ja visst! <br>

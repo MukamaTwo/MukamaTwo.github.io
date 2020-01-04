@@ -2,8 +2,8 @@
 
 title: "Genom Josefssons ögon"
 description: "Here we are, FINALLY!."
-logo: bio-photo.png # 120x120 px default image used for Twitter summary card
-teaser: bio-photo.png # 400x250 px default teaser image used in image archive grid
+logo: bio-120x120.jpg # 120x120 px default image used for Twitter summary card
+teaser: bio-400x250.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url:
 feed:
@@ -34,7 +34,7 @@ owner:
     ad-client: ca-pub-9738164672345537
     ad-slot:
   bio:
-  avatar: bio-photo-small.jpg # 160x160 px image for author byline
+  avatar: bio-160x160.jpg # 160x160 px image for author byline
   disqus-shortname: https-mukamatwo-github-io
 
 
