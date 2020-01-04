@@ -48,7 +48,16 @@ För min tredje gången, från bastun, träffade vi en ny kompis, Joel, som hade
 
 Vi gick till bastun och en stund i kallt havet för två gånger till. På varje gång kände jag bättre och bättre i vatten, och stunden efter jag var ut ur vattnet.
 
-[Att-göra-innan-jag-dör-lista](https://www.facebook.com/bbccomedy/videos/337115390412572/?v=337115390412572){:target="_blank"} markerad
+#### Vedeldad badtunna upplevelse
+
+Efter bastun, den fjärde gången, gick jag och Mike inn i en vedeldad badtunna (se liknande bild nedanför). Det var min första gången någonsin och det kändes jättejättkul. Luften var kall som förra men vattnet var lagom varmt och jag satt i en av de två hörnen i badtunnan. Vatten skjutade fram till min ryggen och det kändes som en mild massage. Det är ju sant att '*lagom är bäst*'. Jag kollade upp och kunde inte ser några fåglar i himlen. Himlen var nu mörkt så där, så jag stängde ögonen och lyssnade till mina inner känslor. Jag blev en med känslor och de var en med jag! All för en och en för all. En sådan stund, utan något runt, bara jag och mina känslor i luften, i rymden!
+
+> *En man*:  Ursäkta! Ursäkta! Finns det en plats till i badtunnan? <br>
+> *Jag* : Ja visst! <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>> *Mitt riktigt tänke* : Jag är i meditation, varför hoppa du inte i havet istället! huh???
+
+Det var 20-30 minuter i badtunna.
+
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9016.093192695429!2d12.967147460043678!3d55.60160818229347!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4653a6a667a5ce0f%3A0x2612925a8f0058b6!2sRibersborgs%20Kallbadhus!5e0!3m2!1ssv!2sse!4v1578011036765!5m2!1ssv!2sse" width="800" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
