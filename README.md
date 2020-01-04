@@ -6,11 +6,11 @@ Trying out personal blogging. Expose the yourself!
 
 ## Why
 
-Using this as  platform to not only blog but also after failing butt-down in swedish alphabet, I skip it to practice the easier Swedish writing of my fun, and Swedish experiences. Det är dags!
+Using this as platform to not only blog but also after failing butt-down in swedish alphabet, I skip it to practice the easier Swedish writing of my fun, and Swedish experiences. Det är dags!
 
 ## Who
 
-Inspired by the all-time [Dota 2](https://thealliance.gg/) fun and friend all teh way from [Jakarta](https://en.wikipedia.org/wiki/Jakarta), the man known to the inner circle as [Mr. T](http://yanuartadityan.github.io/). Wait a minute!!! Does he not look like [Mr. T](https://en.wikipedia.org/wiki/Mr._T).
+Inspired by the all-time [Dota 2](https://thealliance.gg/) fun and friend all teh way from [Jakarta](https://en.wikipedia.org/wiki/Jakarta), the man known to the inner circle as [Mr. T](http://yanuartadityan.github.io/). Wait a minute!!! Does he not look like [Mr. T](https://en.wikipedia.org/wiki/Mr._T). It is more than a year, Mr. T since you coined the term Jekyll, you do not even remember but here I am to remind you that your talk did not go to...... where do they always go :) hmm!!
 
 ## How
 
