@@ -28,6 +28,9 @@ tags: [kall, hav, bastu, kallbad]
 
 Idag började som en vanlig dag; vakna upp, stiga upp, duscha mig, äta frukost, på ingen speciell ordning men idag fanns också en förändring av hjärta för min fru. Vi gick tillsammans till [Riberborgs kallbadhuset](https://www.ribersborgskallbadhus.se/){:target="_blank"} i Malmö för att njuta av vinterns kallbad. För [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg){:target="_blank"}s skull det är bara en tjugo minut promenad från Kronprinsen där vi bör. Det var inte så kallt som man en vanlig vinterdag (4-5 grader) och blåste inte mycket heller.
 
+![kallbadhuset](../images/kallbad.jpg)
+*Ribersborg kallbadhuset*
+
 På kallbadhuset betalade vi på reception och gick på olika håll. Hon gick mot damerna till höger och jag gick mot herrar till vänster.
 
 Jag avklädd, duschade och gick fram till bastun för en sjuttio grade preparation.
@@ -44,7 +47,7 @@ Jag var lite nervös för att hoppa i kall vatten men man vaga att göra roliga 
 
 Jag gick till bastun den andra gången och träffade mina två långa (både i höjd och i skägg längd - det nog tar drygt 10 år för mig) kompisar Mike och ~~Viktor~~ Victor. Sen gick vi till havet. Denna gång hade en liten vridning, gå nedför trappan på vänster sidan, simma i vattnet för en liten stund, sväng tillbaka och klättrade uppför på höger sidan. Ser du vridningen? Nej? bra! Du ska bli väl!
 
-För min tredje gången, från bastun, träffade vi en ny kompis, Joel, som hade just kommit in kallabadhuset. Han gick direkt till havet utan att vårma sig själv i bastun, så jävla galen! Mitt mål i 10 år i framtiden :D
+För min tredje gången, från bastun, träffade vi en ny kompis, Joel, som hade just kommit in kallbadhuset. Han gick direkt till havet utan att vårma sig själv i bastun, så jävla galen! Mitt mål i 10 år i framtiden :D
 
 Vi gick till bastun och en stund i kallt havet för två gånger till. På varje gång kände jag bättre och bättre i vatten, och stunden efter jag var ut ur vattnet.
 
