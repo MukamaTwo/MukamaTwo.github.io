@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Är det kallt än på Kallbadhuset?"
+title: "Kallbadhuset: Är det kallt än?"
 published: true
 comments: true
 tags: [kall, hav, bastu, kallbad]
@@ -34,15 +34,19 @@ Jag avklädd, duschade och gick fram till bastun för en sjuttio grade preparati
 
 #### Den första gången
 
-Efter femton minuter i bastun stigade jag upp som jag var kallad av Emily Rose. Utan att säga någonting gick jag ut bastun och ut huset och fram till havet. Jag gick nerför trappan ett steg i taget tills hela kroppen var under det kall havsvatten. Phewww!!! Vad känsla! så ren, så klart, så jungfrun lika som jag har någonsin aldrig upplevde. Det var en uppvaknande av mina inersta känslor och inom bara några sekunder kom jag ihåg att jag måsta dra ur vattnet. Jag klattrade upp trappan så snabbt som möjligt och gissa vad! Ja, det fanns ingen Emily Rose. Det var bara vikingan i mig.
+Bastun var så vacker med ett litet fönster till vänster vid spisen och ett stort fönster direkt framför bänkarna. Utsikten från det främre fönstret var jätteskönt med vatten över försvinner i himlen. Vattnet hölls på plats av vackra stenar och allt i en fönsterram som en *nationella* vykort bild.
 
-Jag var lite nervös för att hoppa i kall vatten men man vagar att göra roliga saker, eller hur? Det var faktiskt vårmare i vattnet (4.6 grader) än i luften (3 grader) så varför göra det inte igen! Varje gång är intervaller av först bastun och sen hoppa i havet.
+Efter femton minuter i bastun steg jag upp som jag var kallad av Emily Rose. Utan att säga någonting gick jag ut bastun och ut huset och fram till havet. Jag gick nerför trappan ett steg i taget. Min högra fot bröt först in i vattnet och sen min vänstra fot djupare och djupare för varje steg tills hela kroppen var under det kall havsvatten. Phewww!!! Vilken känsla! så ren, så klart, så jungfrun lika som jag har någonsin aldrig upplevde. Det var en uppvaknande av mina innersta känslor och inom bara några sekunder kom jag ihåg att jag måste dra ur vattnet. Jag klattrade upp trappan så snabbt som möjligt och gissa vad! Ja, det fanns ingen Emily Rose. Det var bara vikingan i mig.
 
-#### Därefter
+Jag var lite nervös för att hoppa i kall vatten men man vaga att göra roliga saker, eller hur? Det var faktiskt vårmare i vattnet (4.6 grader) än i luften (3 grader) så varför göra det inte igen! Varje gång är intervaller av först bastun och sen hoppa i havet.
 
-Därefter samlade vi på *Restaurang Ribersborg* och umgås medan vi druck ett par öl. Det var jätteroligt att höra av min frus upplevelse. Det var ju mer intressant för henne än jag eftersom hon trodde att hon kunde aldrig någonsin hoppa i kallt havet. Kvällen slutade på *[Bronx Burgers](https://bronxburgers.se/)* i Centrala Malmö där jag åt min bästa vegansk burgare (Beyond Luleå).
+#### De andra gångerna
 
-### Var ligger Riberborgs kallbadhuset
+Jag gick till bastun den andra gången och träffade mina två långa (både i höjd och i skägg längd - det nog tar drygt 10 år för mig) kompisar Mike och ~~Viktor~~ Victor. Sen gick vi till havet. Denna gång hade en liten vridning, gå nedför trappan på vänster sidan, simma i vattnet för en liten stund, sväng tillbaka och klättrade uppför på höger sidan. Ser du vridningen? Nej? bra! Du ska bli väl!
+
+För min tredje gången, från bastun, träffade vi en ny kompis, Joel, som hade just kommit in kallabadhuset. Han gick direkt till havet utan att vårma sig själv i bastun, så jävla galen! Mitt mål i 10 år i framtiden :D
+
+Vi gick till bastun och en stund i kallt havet för två gånger till. På varje gång kände jag bättre och bättre i vatten, och stunden efter jag var ut ur vattnet.
 
 [Att-göra-innan-jag-dör-lista](https://www.facebook.com/bbccomedy/videos/337115390412572/?v=337115390412572){:target="_blank"} markerad
 
