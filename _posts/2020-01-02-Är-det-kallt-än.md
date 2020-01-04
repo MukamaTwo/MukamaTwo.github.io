@@ -11,7 +11,7 @@ tags: [kall, hav, bastu, kallbad]
 >
 > *Jag* : Jag blev inbjuden till kallbadhuset nästa veckan. <br>
 > *Fru* : Vad är det för nånting? <br>
-> *Jag* : Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och 'springa' till bastun, tror jag! <br>
+> *Jag* : Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och *springa* till bastun, tror jag! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;>> *Då jag återberättade hur det går med bastun och går ner i havet och hur lite 'klädd' man är - eller inte.* <br>
 > *Fru* : Så konstigt! Det går inte för mig! Ha det kullt.
 
@@ -36,7 +36,7 @@ Jag avklädd, duschade och gick fram till bastun för en sjuttio grade preparati
 
 Bastun var så vacker med ett litet fönster till vänster vid spisen och ett stort fönster direkt framför bänkarna. Utsikten från det främre fönstret var jätteskönt med vatten över försvinner i himlen. Vattnet hölls på plats av vackra stenar och allt i en fönsterram som en *nationella* vykort bild.
 
-Efter femton minuter i bastun steg jag upp som jag var kallad av Emily Rose. Utan att säga någonting gick jag ut bastun och ut huset och fram till havet. Jag gick nerför trappan ett steg i taget. Min högra fot bröt först in i vattnet och sen min vänstra fot djupare och djupare för varje steg tills hela kroppen var under det kall havsvatten. Phewww!!! Vilken känsla! så ren, så klart, så jungfrun lika som jag har någonsin aldrig upplevde. Det var en uppvaknande av mina innersta känslor och inom bara några sekunder kom jag ihåg att jag måste dra ur vattnet. Jag klattrade upp trappan så snabbt som möjligt och gissa vad! Ja, det fanns ingen Emily Rose. Det var bara vikingan i mig.
+Efter femton minuter i bastun steg jag upp som jag var kallad av Emily Rose. Utan att säga någonting gick jag ut bastun och ut huset och fram till havet. Jag gick nerför trappan ett steg i taget. Min högra fot bröt först in i vattnet och sen min vänstra fot djupare och djupare för varje steg tills hela kroppen var under det kall havsvatten. Phewww!!! Vilken känsla! så ren, så klart, så jungfrun lika som jag har någonsin aldrig upplevde. Det var en uppvaknande av mina innersta känslor och inom bara några sekunder kom jag ihåg att jag måste dra ur vattnet. Jag klättrade upp trappan så snabbt som möjligt och gissa vad! Ja, det fanns ingen Emily Rose. Det var bara vikingan i mig.
 
 Jag var lite nervös för att hoppa i kall vatten men man vaga att göra roliga saker, eller hur? Det var faktiskt vårmare i vattnet (4.6 grader) än i luften (3 grader) så varför göra det inte igen! Varje gång är intervaller av först bastun och sen hoppa i havet.
 
@@ -70,5 +70,8 @@ Därefter samlade vi på *Restaurang Ribersborg* och umgås medan vi drack ett p
 
 Ett tio gång klippkort? Kanske kanske. Vi hörs snart! :D
 
+### Att-göra-innan-jag-dör-lista
+- [Hoppa i havet](https://www.facebook.com/bbccomedy/videos/337115390412572/?v=337115390412572){:target="_blank"} markerad!
 
-Tack för att du läser!
+
+*Tack för att du läser!*
