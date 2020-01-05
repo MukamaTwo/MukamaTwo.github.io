@@ -12,18 +12,18 @@ image:
 
 > ##### Förraveckan
 >
-> *Jag* : Jag blev inbjuden till kallbadhuset nästa veckan. <br>
-> *Fru* : Vad är det för nånting? <br>
-> *Jag* : Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och *springa* till bastun, tror jag! <br>
+> *Jag*: Jag blev inbjuden till kallbadhuset nästa veckan. <br>
+> *Fru*: Vad är det för nånting? <br>
+> *Jag*: Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och *springa* till bastun, tror jag! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;>> *Då jag återberättade hur det går med bastun och går ner i havet och hur lite 'klädd' man är - eller inte.* <br>
-> *Fru* : Så konstigt! Nej tack! Det går inte för mig. Ha det kullt!
+> *Fru*: Så konstigt! Nej tack! Det går inte för mig. Ha det kullt!
 
 > ##### Ett par dagar senare
 >
-> *Jag* : Nästa vecka ska jag hoppa i havet. <br>
-> *Ddebi* : Oj oj oj! Du är galen som min man. <br>
-> *Ddiba (Ddebis sötpatatis)* : Tänk om känslor från din bästa massage och multiplicerar de där känslorna tio gånger. Nu vet du! <br>
-> *Jag* : Vad kul! Punkt och slut!
+> *Jag*: Nästa vecka ska jag hoppa i havet. <br>
+> *Ddebi*: Oj oj oj! Du är galen som min man. <br>
+> *Ddiba (Ddebis sötpatatis)*: Tänk om känslor från din bästa massage och multiplicerar de där känslorna tio gånger. Nu vet du! <br>
+> *Jag*: Vad kul! Punkt och slut!
 >
 > *OBS: Ddebi och Ddiba är* [nollåttorna](https://sv.wikipedia.org/wiki/Noll%C3%A5tta){:target="_blank"}.
 
@@ -56,8 +56,8 @@ Vi gick till bastun och en stund i kallt havet för två gånger till. På varje
 Efter bastun, den fjärde gången, gick jag och Mike inn i en vedeldad badtunna (se liknande bild nedanför). Det var min första gången någonsin och det kändes jättejättekul. Luften var kall som förra men vattnet var lagom varmt och jag satt i en av de två hörnen i badtunnan. Vatten skjutade fram till min ryggen och det kändes som en mild massage. Det är ju sant att '*lagom är bäst*'. Jag kollade upp och kunde inte ser några fåglar i himlen. Himlen var nu mörkt så där, så jag stängde ögonen och lyssnade till mina inner känslor. Jag blev en med känslor och de var en med jag! All för en och en för all. En sådan stund, utan något runt, bara jag och mina känslor i luften, i rymden!
 
 > *En man*:  Ursäkta! Ursäkta! Finns det en plats till i badtunnan? <br>
-> *Jag* : Ja visst! <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>> *Mitt riktigt tänke* : Jag är i meditation, varför hoppa du inte i havet istället! huh???
+> *Jag*: Ja visst! <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;>> *Mitt riktigt tänke*: Jag är i meditation, varför hoppa du inte i havet istället! huh???
 
 Det var 20-30 minuter i badtunna.
 

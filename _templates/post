@@ -1,12 +1,16 @@
 ---
 layout: {{ layout }}
 title: {{ title }}
-modified:
+modified: yyyy-mm-dd
 categories: {{ dir }}
 excerpt:
 tags: []
+published: false
+comments: true
 image:
   feature:
   teaser:
   thumb:
+  credit:      #name of the person or site you want to credit
+  creditlink:  #url to their site or licensing
 ---
