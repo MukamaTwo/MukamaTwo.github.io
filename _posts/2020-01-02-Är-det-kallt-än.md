@@ -16,7 +16,7 @@ image:
 > *Fru* : Vad är det för nånting? <br>
 > *Jag* : Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och *springa* till bastun, tror jag! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;>> *Då jag återberättade hur det går med bastun och går ner i havet och hur lite 'klädd' man är - eller inte.* <br>
-> *Fru* : Så konstigt! Det går inte för mig! Ha det kullt.
+> *Fru* : Så konstigt! Nej tack! Det går inte för mig. Ha det kullt!
 
 > ##### Ett par dagar senare
 >
