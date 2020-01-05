@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: archive
+title: Om Jag
 permalink: /about/
 ---
 
@@ -8,6 +8,6 @@ Några information >>
 
 Mer info >>
 
-### Contact me
+### Kontakt
 
 [jmuk06\<at>gmail\<dot>com](mailto:jmuk06@gmail.com)
