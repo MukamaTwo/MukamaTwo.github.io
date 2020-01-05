@@ -4,6 +4,10 @@ title: "Kallbadhuset: Är det kallt än?"
 published: true
 comments: true
 tags: [kall, hav, bastu, kallbad]
+image:
+  feature: kallbad.jpg
+  teaser: kallbad_tt.jpg
+  credit: mukama_2
 ---
 
 > ##### Förraveckan
@@ -26,9 +30,6 @@ tags: [kall, hav, bastu, kallbad]
 ### Kallbadhuset
 
 Idag började som en vanlig dag; vakna upp, stiga upp, duscha mig, äta frukost, på ingen speciell ordning men idag fanns också en förändring av hjärta för min fru. Vi gick tillsammans till [Riberborgs kallbadhuset](https://www.ribersborgskallbadhus.se/){:target="_blank"} i Malmö för att njuta av vinterns kallbad. För [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg){:target="_blank"}s skull det är bara en tjugo minut promenad från Kronprinsen där vi bör. Det var inte så kallt som man en vanlig vinterdag (4-5 grader) och blåste inte mycket heller.
-
-![kallbadhuset](../images/kallbad.jpg)
-*Ribersborg kallbadhuset*
 
 På kallbadhuset betalade vi på reception och gick på olika håll. Hon gick mot damerna till höger och jag gick mot herrar till vänster.
 
