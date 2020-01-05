@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Om Jag
-permalink: /about/
+permalink: /om/
 ---
 
 Några information >>
