@@ -11,10 +11,14 @@ if [ $lastExitCode -ne 0 ]
 then
     echo "-----------------------------------------------"
     echo 'ERROR: Failed to start service'
-    # Get pid of first output line of jekyll service
-    jekyllPid="$(ps aux | grep "/jekyll" | awk '{print $2; exit}')"
 
-    echo "Killing jekyll process at PID: $jekyllPid"
+    # Get pid of jekyll service [and grep command]
+    jekyllPid="$(ps aux | grep "/jekyll" | awk '{print $2}')"
+
+    echo "Killing jekyll [and grep] processs at PIDs:"
+    echo "$jekyllPid"
+    echo
+
     kill -9 $jekyllPid
 
     echo "Restarting Jekyll process"
