@@ -5,17 +5,22 @@ import requests
 base = "http://artii.herokuapp.com/"
 
 
-def printResponse(res):
+def getResponse(res):
     if res.status_code == 200:
         ret = res.text
     else:
         ret = f"Error: {res.status_code}: {res.text}"
-    print(ret)
+    return ret
 
 
-def getFonts():
-    res = requests.get(base + "fonts_list")
-    printResponse(res)
+def sampleAllFonts(show=False):
+    if show:
+        res = requests.get(base + "fonts_list")
+        resStr = getResponse(res)
+        fonts = resStr.split("\n")
+
+        for font in fonts:
+            textToAscii('Sample text', font)
 
 
 def textToAscii(text, font=None):
@@ -26,12 +31,11 @@ def textToAscii(text, font=None):
         asc_text = f"make?text={f_text}&font={font}"
     else:
         asc_text = f"make?text={f_text}"
-    print(base + asc_text)
+    print('\n\n %s' % (base + asc_text))
     res = requests.get(base + asc_text)
-    printResponse(res)
+    print(getResponse(res))
 
 
-# getFonts()   # Print supported fonts list
+sampleAllFonts()
 text = 'Josefsson'
 textToAscii(text)
-textToAscii(text, 'thin')
