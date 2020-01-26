@@ -17,9 +17,14 @@ def sampleAllFonts(show=False):
     if show:
         res = requests.get(base + "fonts_list")
         resStr = getResponse(res)
-        fonts = resStr.split("\n")
+        # all_fonts = resStr.split("\n")
 
-        for font in fonts:
+        # Intereseting ones?
+        sample = 'standard gothic roman weird acrobatic alligator alligator2 \
+banner3-D 6x10 bulbhead broadway calgphy2 caligraphy catwalk cyberlarge doom isometric3 fender'
+        sample_fonts = sample.split(" ")
+
+        for font in sample_fonts:
             textToAscii('Sample text', font)
 
 
