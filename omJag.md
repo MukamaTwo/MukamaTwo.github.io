@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: Om Jag
+title: Om Mig
 permalink: /om/
 ---
 
-Några information >>
+Fortfarande komplicerad! **Skratt!
 
-Mer info >>
-
-### Kontakt
-
-[jmuk06\<at>gmail\<dot>com](mailto:jmuk06@gmail.com)
+<img src="../images/clipartLaughTeaser.png" alt="Skratt" style="width:500px" />
