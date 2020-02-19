@@ -12,7 +12,7 @@ image:
 
 > ##### Förraveckan
 >
-> *Jag*: Jag blev inbjuden till kallbadhuset nästa veckan. <br>
+> *Jag*: Jag blev inbjuden till kallbadhuset nästa vecka. <br>
 > *Fru*: Vad är det för nånting? <br>
 > *Jag*: Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och *springa* till bastun, tror jag! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;>> *Då jag återberättade hur det går med bastun och går ner i havet och hur lite 'klädd' man är - eller inte.* <br>
