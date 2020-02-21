@@ -10,7 +10,12 @@ image:
   credit: www.clipartkey.com
 ---
 
-Hellre än berömmelse, än pratar om andra, än pekar på andra, än ingen att göra, vill jag ha skratt. Nu tänker jag skriver korta meddelanden om dagliga upplevelser runt mig.
+Hellre än söker efter berömmelse, än pekar på andra, än bli en soffpotatis hemma, vill jag skratta om något.
 
-'**You snooze you lose**'!
-Utdrag! > Klockan är inte halv tre! Du är för sent!
+Nu tänker jag att skriva korta inläggen om dagliga upplevelser runt mig. Målet är att skriva oftare och mer och tränar svenska. Jag ber om ursäkt om det finns <br>
+&nbsp;&nbsp;&nbsp;&nbsp; *många <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;små <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fel* <br>
+men du vet ju att innan jag kunde promenera, jag kröp! Nu ska vi se!
+
+**Utdrag**! > Är bussbiljetterna sånt dyr mellan Lund och Malmö!
