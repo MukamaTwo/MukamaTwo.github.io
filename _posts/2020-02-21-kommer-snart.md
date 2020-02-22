@@ -16,6 +16,6 @@ Nu tänker jag att skriva korta inläggen om dagliga upplevelser runt mig. Måle
 &nbsp;&nbsp;&nbsp;&nbsp; *många <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;små <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fel* <br>
-men du vet ju att innan jag kunde promenera, jag kröp! Nu ska vi se!
+men men men... du vet ju att innan jag kunde promenera, jag kröp! Nu ska vi se!
 
 **Utdrag**! > Är bussbiljetterna verkligen sånt dyr mellan Lund och Malmö att du måste...?
