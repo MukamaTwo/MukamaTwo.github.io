@@ -1,11 +1,14 @@
 # Site wide configuration
 
 title: "Genom Josefssons ögon"
-description: "Here we are, FINALLY!."
+description: "Korta inläggen om dagliga upplevelser omkring en man som heter Josefsson!."
 logo: bio-120x120.jpg # 120x120 px default image used for Twitter summary card
 teaser: bio-400x250.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://mukamatwo.github.io/
+feed_items: 5
+feed_update_period: weekly
+feed_update_frequency: 1
 feed:
   path: atom.xml
 
