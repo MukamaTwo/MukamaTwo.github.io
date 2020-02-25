@@ -40,5 +40,5 @@ Efter rundan fick jag en fråga från min kompis, [William](https://hejsweden.co
 > ##### Samtalet
 > *William*: Är bussbiljetterna verkligen sånt dyr mellan Lund och Malmö att du måste springa? <br>
 > *Jag*: Nej! Det är fredag så är det mycket trafikstockning.<br>
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tänk om all gjorde så!*
-> *William*: Bwahahaha
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Tänk om all gjorde så!*<br>
+> *William*: Bwahahahahahaha - *skrattar tillsammans med axlarna*
