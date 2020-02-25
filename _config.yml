@@ -5,7 +5,7 @@ description: "Korta inläggen om dagliga upplevelser omkring en man som heter Jo
 logo: bio-120x120.jpg # 120x120 px default image used for Twitter summary card
 teaser: bio-400x250.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
-url: https://mukamatwo.github.io/
+url: https://mukamatwo.github.io
 feed_items: 5
 feed_update_period: weekly
 feed_update_frequency: 1
