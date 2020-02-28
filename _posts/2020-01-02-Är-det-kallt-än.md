@@ -3,6 +3,7 @@ layout: article
 title: "Kallbadhuset: Är det kallt än?"
 published: true
 comments: true
+ads: true
 tags: [kall, hav, bastu, kallbad, malmö, vinter, riberborg, kallbadhuset]
 image:
   feature: kallbad.jpg
