@@ -1,14 +1,51 @@
 ---
 layout: archive
-title: Kontakt Mig
+title: Kontakt
 permalink: /kontakt/
 ---
-
-<form action="mailto:jmuk06@gmail.com" method="POST">
-  <label>Subjekt: <input type="text" name="_subject" value="Tack för bloggen!"/></label>
-  <label>Namn: <input type="text" name="name" required> </label>
-  <label>Epost: <input type="email" name="_replyto" required></label>
-  <label>Meddelande: <textarea name="message" required></textarea></label>
-  <input type="submit" value="Send">
-  <input type="hidden" name="_next" value="/">
-</form>
+<div>
+  <form action="mailto:jmuk06@gmail.com" method="POST">
+    <table style="width:500px">
+        <tr>
+            <td style="width:100px">
+              Subjekt:
+            </td>
+            <td>
+              <input type="text" name="_subject" value="Om bloggen!"/>
+            </td>
+        </tr>
+        <tr>
+            <td>
+              Namn:
+            </td>
+            <td>
+              <input type="text" name="name" required>
+            </td>
+        </tr>
+        <tr>
+            <td>
+              Epost:
+            </td>
+            <td>
+              <input type="email" name="_replyto" required>
+            </td>
+        </tr>
+        <tr>
+            <td style="vertical-align:top">
+              Meddelande:
+            </td>
+            <td>
+              <textarea name="message" rows="10" required></textarea>
+            </td>
+        </tr>
+        <tr>
+            <td> &nbsp;
+            </td>
+            <td>
+                <input type="submit" value="Send">
+            </td>
+        </tr>
+    </table>
+    <input type="hidden" name="_next" value="/">
+  </form>
+</div>
