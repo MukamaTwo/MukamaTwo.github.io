@@ -4,7 +4,7 @@ title: Kontakt
 permalink: /kontakt/
 ---
 <div>
-  <form action="mailto:jmuk06@gmail.com" method="POST">
+  <form id="kontaktForm" action="mailto:jmuk06@gmail.com" method="POST">
     <table style="width:500px">
         <tr>
             <td style="width:100px">
@@ -42,7 +42,7 @@ permalink: /kontakt/
             <td> &nbsp;
             </td>
             <td>
-                <input type="submit" value="Send">
+                <input type="submit" value="Send" onclick="formSubmited()">
             </td>
         </tr>
     </table>
