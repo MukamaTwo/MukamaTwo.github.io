@@ -4,7 +4,7 @@ title: Kontakt
 permalink: /kontakt/
 ---
 <div>
-  <form id="kontaktForm" action="https://getsimpleform.com/messages?form_api_token=7a21bc139ac802871a6211d11627f49f" method="POST">
+  <form action="https://getsimpleform.com/messages?form_api_token=a7edaa340ed877ee35e2f589cfdd4147" method="post">
     <table style="width:500px">
         <tr>
             <td style="width:100px">
