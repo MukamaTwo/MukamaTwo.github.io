@@ -4,14 +4,14 @@ title: Kontakt
 permalink: /kontakt/
 ---
 <div>
-  <form id="kontaktForm" action="mailto:jmuk06@gmail.com" method="POST" onsubmit="formSubmited()">
+  <form id="kontaktForm" action="{{ site.url }}/php/sendmail.php" method="POST" onsubmit="formSubmited()">
     <table style="width:500px">
         <tr>
             <td style="width:100px">
               Subjekt:
             </td>
             <td>
-              <input type="text" name="_subject" value="Om bloggen!"/>
+              <input type="text" name="subject" value="Om bloggen!"/>
             </td>
         </tr>
         <tr>
@@ -19,7 +19,7 @@ permalink: /kontakt/
               Namn:
             </td>
             <td>
-              <input type="text" name="name" required>
+              <input type="text" name="nameTo" required>
             </td>
         </tr>
         <tr>
@@ -27,7 +27,7 @@ permalink: /kontakt/
               Epost:
             </td>
             <td>
-              <input type="email" name="_replyto" required>
+              <input type="email" name="replyto" required>
             </td>
         </tr>
         <tr>
