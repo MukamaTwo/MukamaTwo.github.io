@@ -1,21 +1,29 @@
 ---
 layout: article
-title: "Kommer snart!"
+title: "Utvecklande berättelse - Välkommen till Uganda!"
 published: true
-tags: [skratt, skoj, rolig, hakuna, matata]
+tags: [skratt, skoj, rolig, Uganda, matata]
 image:
   feature:
   teaser: clipartLaughTeaser.png
   credit: www.clipartkey.com
 ---
 
-Hellre än söker efter berömmelse, än pekar på andra, än bli en soffpotatis hemma, vill jag skratta om något.
+Så, min farbrors dotter är född och uppvuxen i Tyskland. Jag och *Nono* är ålder kompisar men vi lärde känna varandra för mindre än fyra år sen. En gång på i mitten av 2000-talet reste hon till Uganda för en månad för hennes första gång. Då studerade jag på en internatskola och vi träffade inte. Ungefär 15 år senare, träffade vi äntligen. Därefter träffar vi åtminstone varje år.
 
-Nu tänker jag att skriva korta inläggen om dagliga upplevelser runt mig. Målet är att skriva oftare och mer och tränar svenska. Jag ber om ursäkt om det finns <br>
-&nbsp;&nbsp;&nbsp;&nbsp; *många <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;små <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fel* <br>
-men men men... du vet ju att innan jag kunde promenera, jag kröp! Nu ska vi se!
+Igår reste Nono till Uganda för sin andra gång i livet.
 
-**Utdrag**
-> Är bussbiljetterna sånt dyr mellan Lund och Malmö!
+##### Dag 0 av 20 i Uganda
+
+Under resan kommunicerade vi lite via några facebook inläggen.
+Men strax före immigrations personalen, bröt hela helvetet lös.
+
+> ##### Återberättelse
+>
+> *Nono*: Kusin, jag behövde din hjälp. <br>
+> *Jag*: Jaså, vad är den som hände? <br>
+> *Nono*: Precis efter jag var på [Entebbe flygplanet](https://en.wikipedia.org/wiki/Entebbe_International_Airport){:target="_blank"} sa personalen att jag måste göra en medicinsk screening till *coronaviruset* OCH stanna i karantän för två veckor. <br>
+> *Jag*: Varför då? <br>
+> *Nono*: Personalen sa så eftersom jag är tysk och det fanns flera fall av smittad individer i Tyskland. <br>
+> *Jag*: Oj oj oj! Vad för fan hände efteråt? <br>
+> *Nono*: Det här och det där, här och där ...
