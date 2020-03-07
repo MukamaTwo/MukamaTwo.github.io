@@ -36,7 +36,7 @@ Sen, en man som heter Jösefsson fått ett tusen tankar. Snart som möjligt ring
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B82kL6eXyh4" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-Efter rundan fick jag en fråga från min kompis, [William](https://hejsweden.com/en/swedish-names-lists-statistics/).
+Efter rundan fick jag en fråga från min kompis, [William](https://hejsweden.com/en/swedish-names-lists-statistics/){:target="_blank"}.
 > ##### Samtalet
 > *William*: Är bussbiljetterna verkligen sånt dyr mellan Lund och Malmö att du måste springa? <br>
 > *Jag*: Nej! Det är fredag så är det mycket trafikstockning.<br>

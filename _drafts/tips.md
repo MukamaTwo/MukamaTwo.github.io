@@ -26,7 +26,7 @@ En man som heter Ove
     -->
 
 Röde Orm
-[Om Sverige](http://www.immi.se/sverigeguider/sverigepocket_lattsvenska.pdf)
+[Om Sverige](http://www.immi.se/sverigeguider/sverigepocket_lattsvenska.pdf){:target="_blank"}
 
 ## Andra Tryckta källor
 
@@ -34,7 +34,7 @@ Tidningar
 
 
 ## Sociala media
-[Sketchy notes](https://sketchynotes.wordpress.com/) av Elisabet Sjölund.
+[Sketchy notes](https://sketchynotes.wordpress.com/){:target="_blank"} av Elisabet Sjölund.
 
 Instagram
 
