@@ -2,11 +2,11 @@
 layout: article
 title: "Utvecklande berättelse - Välkommen till Uganda!"
 published: true
-tags: [skratt, skoj, rolig, Uganda, matata]
+tags: [Uganda, coronavirus, tysk, resa]
 image:
-  feature:
-  teaser: clipartLaughTeaser.png
-  credit: www.clipartkey.com
+  feature: 256/feat.jpg
+  teaser: 256/nono.jpg
+  credit:
 ---
 
 Så, min farbrors dotter är född och uppvuxen i Tyskland. Jag och *Nono* är ålder kompisar men vi lärde känna varandra för mindre än fyra år sen. En gång på i mitten av 2000-talet reste hon till Uganda för en månad för hennes första gång. Då studerade jag på en internatskola och vi träffade inte. Ungefär 15 år senare, träffade vi äntligen. Därefter träffar vi åtminstone varje år.
