@@ -28,7 +28,7 @@ Jag sprang längs Tunavägen via Tunaparken, och jag svängde till vänster vid 
 
 Snart efter arenan började det att duggregna, genom Klostergården till och med Hjärup. Med öppna armar, sprang jag motvind medan det blåste, lik som ett barn springande mot sitt mamma. Ytterligare, blåst det starkaste runt Hjärup p.g.a mycket jordbruksmark till vänster.
 
-Sen, en man som heter Jösefsson fått ett tusen tankar. Snart som möjligt ringde han sin fru och pratade om... [exakt] inget. Snart sprang han förbi Åkarp, Arlöv, Burlöv och sen Värnhem, <i>**Malmö**</i>, - bara 3.2 km kvar.
+Sen, en man som heter Josefsson fått ett tusen tankar. Snart som möjligt ringde han sin fru och pratade om... [exakt] inget. Snart sprang han förbi Åkarp, Arlöv, Burlöv och sen Värnhem, <i>**Malmö**</i>, - bara 3.2 km kvar.
 
 Äntligen, efter 2,3 mil på 5'58" tempo, var jag på Hästhagens IP. Jag var svettig och för trött men jag var mycket nöjd. Jag behövde att sträcka. Jag har ett träningsgymkort som jag sällan använder trots att gymet ligger precis på bottenvåningen av bostadsområdet men äntligen skulle jag använda det.
 
