@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Utvecklande berättelse - Välkommen till Uganda!"
+title: "Utvecklande återberättelse - Välkommen till Uganda!"
 published: true
 tags: [Uganda, coronavirus, tysk, resa]
 image:
@@ -22,8 +22,14 @@ Men strax före immigrations personalen, bröt hela helvetet lös.
 >
 > *Nono*: Kusin, jag behövde din hjälp. <br>
 > *Jag*: Jaså, vad är den som hände? <br>
-> *Nono*: Precis efter jag var på [Entebbe flygplanet](https://en.wikipedia.org/wiki/Entebbe_International_Airport){:target="_blank"} sa personalen att jag måste göra en medicinsk screening till *coronaviruset* OCH stanna i karantän för två veckor. <br>
+> *Nono*: Precis efter jag var på [Entebbe flygplats](https://en.wikipedia.org/wiki/Entebbe_International_Airport){:target="_blank"} sa personalen att jag måste göra en medicinsk screening till *coronaviruset* OCH stanna i karantän för två veckor. <br>
 > *Jag*: Varför då? <br>
 > *Nono*: Personalen sa så eftersom jag är tysk och det fanns flera fall av smittad individer i Tyskland. <br>
 > *Jag*: Oj oj oj! Vad för fan hände efteråt? <br>
 > *Nono*: Det här och det där, här och där ...
+
+<img src="../images/256/corona.jpg" alt="Corona alert" style="width:400px" />
+
+*Corona-kontrollmeddelande på Entebbe flygplatsen.*<br>
+*Foto av: Noemi Mukama*
+<hr>
