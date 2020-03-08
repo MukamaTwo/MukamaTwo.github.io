@@ -2,6 +2,7 @@
 layout: article
 title: "Utvecklande återberättelse - Välkommen till Uganda!"
 published: true
+comments: true
 tags: [Uganda, coronavirus, tysk, resa]
 image:
   feature: 256/feat.jpg
@@ -9,13 +10,13 @@ image:
   credit:
 ---
 
-Så, min farbrors dotter är född och uppvuxen i Tyskland. Jag och *Nono* är ålder kompisar men vi lärde känna varandra för mindre än fyra år sen. En gång på i mitten av 2000-talet reste hon till Uganda för en månad för hennes första gång. Då studerade jag på en internatskola och vi träffade inte. Ungefär 15 år senare, träffade vi äntligen. Därefter träffar vi åtminstone varje år.
+Så, min farbrors dotter är född och uppvuxen i Tyskland. Jag och *Nono* är ålder kompisar men vi lärde känna varandra för mindre än fyra år sen. En gång i mitten av 2000-talet reste hon till Uganda för en månad - hennes första gång. Då studerade jag på en internatskola (*'boarding school'* ugandiskt sammanhang) och vi träffade inte. Ungefär 15 år senare, träffade vi äntligen. Därefter träffar vi åtminstone en gång varje år.
 
 Igår reste Nono till Uganda för sin andra gång i livet.
 
-##### Dag 0 av 20 i Uganda
+##### Dag 0 [1] av 20 i Uganda
 
-Under resan kommunicerade vi lite via några facebook inläggen.
+Under resan kommunicerade vi lite grann via några facebook inläggen.
 Men strax före immigrations personalen, bröt hela helvetet lös.
 
 > ##### Återberättelse
