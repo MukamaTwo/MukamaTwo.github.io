@@ -10,9 +10,16 @@ permalink: /
  | |  | | |_| |   < (_| | | | | | | (_| |  _| |_ _| |_ _\__ \
  |_|  |_|\__,_|_|\_\__,_|_| |_| |_|\__,_| |_____|_____(_)___/
 </pre>
-## Senaste inläggen
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
+
+<div id="pg_container">
+  <div id="first">
+    <h2>Senaste inläggen</h2>
+    {% for post in site.posts %}
+      {% include post-list.html %}
+    {% endfor %}
+  </div>
+  <div id="second">
+    <h2></h2>
+
+  </div>
 </div><!-- /.tiles -->
