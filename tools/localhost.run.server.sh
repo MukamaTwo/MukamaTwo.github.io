@@ -3,7 +3,7 @@
 cd ../
 
 echo "Starting Jekyll process"
-bundle exec jekyll serve
+bundle exec jekyll serve --drafts
 
 lastExitCode=`echo $?`
 
@@ -22,6 +22,6 @@ then
     kill -9 $jekyllPid
 
     echo "Restarting Jekyll process"
-    bundle exec jekyll serve
+    bundle exec jekyll serve --drafts
     echo "-----------------------------------------------"
 fi

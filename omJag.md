@@ -1,13 +1,9 @@
 ---
 layout: archive
-title: Om Jag
+title: Om Mig
 permalink: /om/
 ---
 
-Några information >>
+Jag är en enkel kille med en enkel profil.
 
-Mer info >>
-
-### Kontakt
-
-[jmuk06\<at>gmail\<dot>com](mailto:jmuk06@gmail.com)
+<img src="../images/clipartLaughTeaser.png" alt="Skratt" style="width:500px" />

@@ -12,7 +12,7 @@ image:
 
 > ##### Förraveckan
 >
-> *Jag*: Jag blev inbjuden till kallbadhuset nästa veckan. <br>
+> *Jag*: Jag blev inbjuden till kallbadhuset nästa vecka. <br>
 > *Fru*: Vad är det för nånting? <br>
 > *Jag*: Ett kall - bad - hus! Du vet! Ett hus där man kan hoppa i havet och *springa* till bastun, tror jag! <br>
 &nbsp;&nbsp;&nbsp;&nbsp;>> *Då jag återberättade hur det går med bastun och går ner i havet och hur lite 'klädd' man är - eller inte.* <br>
@@ -29,7 +29,7 @@ image:
 
 ### Kallbadhuset
 
-Idag började som en vanlig dag; vakna upp, stiga upp, duscha mig, äta frukost, på ingen speciell ordning men idag fanns också en förändring av hjärta för min fru. Vi gick tillsammans till [Riberborgs kallbadhuset](https://www.ribersborgskallbadhus.se/){:target="_blank"} i Malmö för att njuta av vinterns kallbad. För [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg){:target="_blank"}s skull det är bara en tjugo minut promenad från Kronprinsen där vi bör. Det var inte så kallt som man en vanlig vinterdag (4-5 grader) och blåste inte mycket heller.
+Idag började som en vanlig dag; vakna upp, stiga upp, duscha mig, äta frukost, på ingen speciell ordning men idag fanns också en förändring av hjärta för min fru. Vi gick tillsammans till [Riberborgs kallbadhuset](https://www.ribersborgskallbadhus.se/){:target="_blank"} i Malmö för att njuta av vinterns kallbad. För [Greta Thunberg](https://en.wikipedia.org/wiki/Greta_Thunberg){:target="_blank"}s skull det är bara en tjugo minut promenad från Kronprinsen där vi bör. Det var inte så kallt som en vanlig vinterdag (4-5 grader) och blåste inte mycket heller.
 
 På kallbadhuset betalade vi på reception och gick på olika håll. Hon gick mot damerna till höger och jag gick mot herrar till vänster.
 
@@ -41,7 +41,7 @@ Bastun var så vacker med ett litet fönster till vänster vid spisen och ett st
 
 Efter femton minuter i bastun steg jag upp som jag var kallad av *Emily Rose*. Utan att säga någonting gick jag ut bastun och ut huset och fram till havet. Jag gick nerför trappan ett steg i taget. Min högra fot bröt först in i vattnet och sen min vänstra fot djupare och djupare för varje steg tills hela kroppen var under det kall havsvatten. Phewww!!! Vilken känsla! så ren, så klart, så jungfrun lika som jag har någonsin aldrig upplevde. Det var en uppvaknande av mina innersta känslor och inom bara några sekunder kom jag ihåg att jag måste dra ur vattnet. Jag klättrade upp trappan så snabbt som möjligt och gissa vad! Ja, det fanns ingen Emily Rose. Det var bara vikingan i mig.
 
-Jag var lite nervös för att hoppa i kall vatten men man vaga att göra roliga saker, eller hur? Det var faktiskt vårmare i vattnet (4.6 grader) än i luften (3 grader) så varför göra det inte igen! Varje gång är intervaller av först bastun och sen hoppa i havet.
+Jag var lite nervös att hoppa i kall vatten men man måste vaga göra roliga saker, eller hur? Det var faktiskt vårmare i vattnet (4.6 grader) än i luften (3 grader) så varför göra det inte igen! Varje gång är intervaller av först bastun och sen hoppa i havet.
 
 #### De andra gångerna
 

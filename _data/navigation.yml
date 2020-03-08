@@ -1,12 +1,16 @@
 # Site navigation links
 
 - title: Bloggar
-  url: /
+  url: /bloggar/
   excerpt:
   image:
 
-
-- title: Om Jag
+- title: Om
   url: /om/
+  excerpt:
+  image:
+
+- title: Kontakt
+  url: /kontakt/
   excerpt:
   image:
