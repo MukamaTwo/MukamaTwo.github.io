@@ -10,7 +10,7 @@ image:
   credit:
 ---
 
-Så, min farbrors dotter är född och uppvuxen i Tyskland. Jag och *Nono* är ålder kompisar men vi lärde känna varandra för mindre än fyra år sen. En gång i mitten av 2000-talet reste hon till Uganda för en månad - hennes första gång. Då studerade jag på en internatskola (*'boarding school'* ugandiskt sammanhang) och vi träffade inte. Ungefär 15 år senare, träffade vi äntligen. Därefter träffar vi åtminstone en gång varje år.
+Så, min farbrors dotter är född och uppvuxen i Tyskland. Jag och *Nono* är ålder kompisar men vi lärde känna varandra för mindre än fyra år sen. En gång i mitten av 2000-talet reste hon till Uganda för en månad - hennes första gång. Då studerade jag på en internatskola (*'boarding school'* på ugandiskt sammanhang) och vi träffade inte. Ungefär 15 år senare, träffade vi äntligen. Därefter träffar vi åtminstone en gång varje år.
 
 Igår reste Nono till Uganda för sin andra gång i livet.
 
