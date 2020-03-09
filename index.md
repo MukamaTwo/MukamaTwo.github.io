@@ -31,4 +31,8 @@ men men men...</i> du vet ju att innan jag kunde promenera, jag kröp!<br><br>
 
 Njut av hur jag blanda mina upplevelser och händelser med fantasi och du kommer aldrig att vara densamma igen. Nu kör vi!
   </div>
+  <div id="clear">
+    <br><br>
+    {% include rss-feedburner.html %}
+  </div>
 </div><!-- /.tiles -->
