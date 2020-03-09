@@ -3,16 +3,32 @@ layout: archive
 permalink: /
 ---
 <pre>
-  __  __       _                           _____ _____
- |  \/  |     | |                         |_   _|_   _|_
- | \  / |_   _| | ____ _ _ __ ___   __ _    | |   | | (_)___
- | |\/| | | | | |/ / _` | '_ ` _ \ / _` |   | |   | |   / __|
- | |  | | |_| |   < (_| | | | | | | (_| |  _| |_ _| |_ _\__ \
- |_|  |_|\__,_|_|\_\__,_|_| |_| |_|\__,_| |_____|_____(_)___/
+.___  ___.  __    __   __  ___      ___      .___  ___.      ___          __   __         _______.
+|   \/   | |  |  |  | |  |/  /     /   \     |   \/   |     /   \        |  | |  |  _    /       |
+|  \  /  | |  |  |  | |  '  /     /  ^  \    |  \  /  |    /  ^  \       |  | |  | (_)  |   (----`
+|  |\/|  | |  |  |  | |    <     /  /_\  \   |  |\/|  |   /  /_\  \      |  | |  |       \   \
+|  |  |  | |  `--'  | |  .  \   /  _____  \  |  |  |  |  /  _____  \     |  | |  |  _.----)   |
+|__|  |__|  \______/  |__|\__\ /__/     \__\ |__|  |__| /__/     \__\    |__| |__| (_)_______/
 </pre>
-## Senaste inläggen
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
+
+<div id="pg_container">
+  <div id="first">
+    <h2>Senaste inläggen</h2>
+    {% for post in site.posts %}
+      {% include post-list.html %}
+    {% endfor %}
+  </div>
+  <div id="second">
+    <h2>Lite om b.l.o.g.g.e.n.</h2>
+Denna är en 'personlig' blogg om det som händer runt mig och ibland om mig. Jag skriver mest korta inläggen om dagliga upplevelser.
+
+Bloggens huvudmålet är att träna svenska. Man lär sig mer när man skriver, läser, hör och pratar.
+Jag ber om ursäkt om det finns <br>
+&nbsp;&nbsp;&nbsp;&nbsp; <i>många <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;små <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fel <br>
+men men men...</i> du vet ju att innan jag kunde promenera, jag kröp!<br><br>
+
+Njut av hur jag blanda mina upplevelser och händelser med fantasi och du kommer aldrig att vara densamma igen. Nu kör vi!
+  </div>
 </div><!-- /.tiles -->

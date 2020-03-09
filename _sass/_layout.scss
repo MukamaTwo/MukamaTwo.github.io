@@ -306,6 +306,24 @@
 	border: 2px dashed green;
 }
 
+#pg_container {
+    width: 100%;
+    //background-color: #ffcc33;
+    margin: auto;
+}
+#first {
+    width: 50%;
+    float: left;
+    //height: 300px;
+    //background-color: gainsboro;
+}
+#second {
+    width: 50%;
+    float: left;
+    height: 300px;
+    //background-color: blue;
+}
+
 /*
    Page footer
    ========================================================================== */

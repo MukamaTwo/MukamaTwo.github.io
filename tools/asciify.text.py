@@ -44,3 +44,4 @@ def textToAscii(text, font=None):
 sampleAllFonts()
 text = 'Josefsson'
 textToAscii(text)
+textToAscii(text, font='starwars')
