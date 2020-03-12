@@ -1,4 +1,8 @@
 # Site navigation links
+- title: Start
+  url: /
+  excerpt:
+  image: bio-400x250.jpg
 
 - title: Bloggar
   url: /bloggar/

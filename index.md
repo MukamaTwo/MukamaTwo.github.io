@@ -29,6 +29,8 @@ Jag ber om ursäkt om det finns <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fel <br>
 men men men...</i> du vet ju att innan jag kunde promenera, jag kröp!<br><br>
 
+Flera år framöver vill jag titta tillbaka och skratta om mina dåliga stavningar och grammatik.
+
 Njut av hur jag blanda mina upplevelser och händelser med fantasi och du kommer aldrig att vara densamma igen. Nu kör vi!
   </div>
   <div id="clear">
