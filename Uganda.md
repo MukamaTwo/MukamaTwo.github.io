@@ -4,7 +4,7 @@ title: Wiki Paket om Uganda!
 permalink: /Uganda/
 image:
   feature: ug/kla.jpg
-  credit: Noémi Mukama
+  credit: Noémi Mukama, Kampala, Uganda
 ---
 Mukama, även känd som Josefsson, kommer från Uganda.
 - Landskod är 256.
