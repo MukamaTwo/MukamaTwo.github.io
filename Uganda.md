@@ -2,6 +2,7 @@
 layout: archive
 title: Wiki Paket om Uganda!
 permalink: /Uganda/
+comments: true
 image:
   feature: ug/kla.jpg
   credit: Noémi Mukama, Kampala, Uganda
