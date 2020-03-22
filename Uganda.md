@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: article
 title: Wiki Paket om Uganda!
 permalink: /Uganda/
 comments: true
