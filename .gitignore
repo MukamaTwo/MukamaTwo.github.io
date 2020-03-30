@@ -1,3 +1,4 @@
 # Local site files
 _site/
 *.orig
+*.xcf
