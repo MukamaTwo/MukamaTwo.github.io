@@ -15,10 +15,15 @@ layout: default
 		{% include breadcrumbs.html %}
 		<div class="page-title">
 			<h1>{{ page.title }}</h1>
+			<!-- Enable click next at bottom of articles -->
+			{% include next-post.html %}
 		</div>
 		<div class="inner-wrap">
 			<div id="content" class="page-content" itemprop="articleBody">
 				{{ content }}
+				<hr />
+				<!-- Enable click next at bottom of articles -->
+				{% include next-post.html %}
 				<hr />
 				<footer class="page-footer">
 					{% if page.categories %}{% include page-author.html %}{% endif %}

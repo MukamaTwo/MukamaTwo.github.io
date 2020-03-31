@@ -296,6 +296,26 @@
 		}
 	}
 }
+// Next post by click
+.PageNavigation {
+	@include font-size(16,no);
+	display: block;
+	width: auto;
+	overflow: hidden;
+  }
+
+  .PageNavigation a {
+	display: block;
+	width: 50%;
+	float: left;
+	margin: 1em 0;
+	color:$facebook-color;
+  }
+
+  .PageNavigation .next {
+	text-align: right;
+  }
+
 // RSS
 .rss-subscribe {
 	display: block;
