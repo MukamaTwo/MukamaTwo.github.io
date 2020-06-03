@@ -4,8 +4,8 @@ title: Say something in English!
 permalink: /engelska/
 comments: true
 image:
-  feature: engelskaInlagg/david-lopez-say-something.jpg
-  credit: David Lopez/ Unsplash.com
+  feature: engelskaInlagg/kadir-celep-unsplash.jpg
+  credit: Kadir Celep / Unsplash.com
 ---
 
 ## Guest blogging
