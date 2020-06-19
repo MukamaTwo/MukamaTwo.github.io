@@ -1,16 +1,26 @@
 # Run from root directory of the repo.
 # Then preview updates at http://localhost:4000
-cd ../
 
-echo "Starting Jekyll process"
-bundle exec jekyll serve --drafts
+function startJekyllProcess() {
 
-lastExitCode=`echo $?`
+    echo; echo "$1tarting Jekyll process"
+    bundle exec jekyll serve --drafts
+
+    lastExitCode=`echo $?`
+
+}
+
+# Exit if not project root.
+[ ! -f ./Gemfile ] && echo "Please run from project root tools/localhost.run.server.sh" && exit 1
+
+# Start process
+startJekyllProcess "S"
 
 if [ $lastExitCode -ne 0 ]
 then
     echo "-----------------------------------------------"
-    echo 'ERROR: Failed to start service'
+    error_found="FAIL: Starting service with error Code - $lastExitCode"
+    echo $error_found
 
     # Get pid of jekyll service [and grep command]
     jekyllPid="$(ps aux | grep "/jekyll" | awk '{print $2}')"
@@ -21,7 +31,13 @@ then
 
     kill -9 $jekyllPid
 
-    echo "Restarting Jekyll process"
-    bundle exec jekyll serve --drafts
+    startJekyllProcess "Res"
+
+    if [ $lastExitCode -ne 0 ]
+    then
+        echo $error_found
+    fi
     echo "-----------------------------------------------"
 fi
+
+echo "Done"
