@@ -14,9 +14,10 @@ image:
 
 Recently, I started guest blogging on [The Newbie Guide to Sweden](https://www.thenewbieguide.se/){:target="_blank"} to test my english :). I guess it is going good, you tell me. Currently focusing on culture and celebrations within Sweden.
 
-Find [my all posts here >>](https://www.thenewbieguide.se/author/joseph/){:target="_blank"} or just jump to what may interest you below.
+Find [all my guest posts with *The Newbie Guide* here >>](https://www.thenewbieguide.se/author/joseph/){:target="_blank"} or just jump directly to what may interest you below.
 
 <!-- Place latest posts on top of the list below -->
+1. [Travel eco-friendly around Skåne this summer](https://www.thenewbieguide.se/eco-travel-around-skane/){:target="_blank"}
 1. [The Swedish Midsummer eve](https://www.thenewbieguide.se/midsummer-and-how-it-is-supposed-to-be/){:target="_blank"}
 1. [The Swedish National Day](https://www.thenewbieguide.se/the-swedish-national-day/){:target="_blank"}
 1. [Valborg: the What, the Why, and the How](https://www.thenewbieguide.se/valborg-the-what-the-why-and-the-how/){:target="_blank"}
