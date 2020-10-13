@@ -17,6 +17,7 @@ Recently, I started guest blogging on [The Newbie Guide to Sweden](https://www.t
 Find [all my guest posts with *The Newbie Guide* here >>](https://www.thenewbieguide.se/author/joseph/){:target="_blank"} or just jump directly to what may interest you below.
 
 <!-- Place latest posts on top of the list below -->
+1. [Inkassokrav: A Gym Case](https://www.thenewbieguide.se/inkassokrav-a-gym-case/){:target="_blank"}
 1. [Travel eco-friendly around Skåne this summer](https://www.thenewbieguide.se/eco-travel-around-skane/){:target="_blank"}
 1. [The Swedish Midsummer eve](https://www.thenewbieguide.se/midsummer-and-how-it-is-supposed-to-be/){:target="_blank"}
 1. [The Swedish National Day](https://www.thenewbieguide.se/the-swedish-national-day/){:target="_blank"}
