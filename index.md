@@ -2,7 +2,11 @@
 layout: archive
 permalink: /
 ---
+<!--
+Depracated FB api
 ![Josefsson](https://graph.facebook.com/100003338227386/picture?type=large)
+-->
+<img src="images/bio-160x160.jpg" alt="Josefsson" />
 
 <div id="pg_container">
   <div id="first">
