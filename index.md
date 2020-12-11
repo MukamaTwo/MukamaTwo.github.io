@@ -8,6 +8,8 @@ Depracated FB api
 -->
 <img src="images/bio-160x160.jpg" alt="Josefsson" />
 
+Håll koll på den nya utvecklingen på Josefssons <span style="color: #0000FF">[beroendeframkallande](https://mukama.design.blog/){:target="_blank"}</span> inlägg på wordpress.
+
 <div id="pg_container">
   <div id="first">
     <h2>Senaste inläggen</h2>
