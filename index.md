@@ -6,7 +6,9 @@ permalink: /start/
 Depracated FB api
 ![Josefsson](https://graph.facebook.com/100003338227386/picture?type=large)
 -->
-<img src="images/bio-160x160.jpg" alt="Josefsson" />
+<img src="../images/bio-160x160.jpg" alt="Josefsson" />
+
+Min krönika "[att lära sig språket](https://pdf-flip.se/Vart_Malmo/2021/Vart_Malmo_nr2_2021/15/)" publicerades i tidningen Vårt Malmö (202102 sida 15).
 
 Håll koll på den nya utvecklingen på Josefssons <span style="color: #0000FF">[beroendeframkallande](https://mukama.design.blog/){:target="_blank"}</span> inlägg på wordpress.
 
