@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /start/
+permalink: /
 ---
 <!--
 Depracated FB api

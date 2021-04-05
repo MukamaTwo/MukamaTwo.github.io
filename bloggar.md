@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /
+permalink: /Bloggar/
 ---
 <div class="tiles">
 {% for post in site.posts %}

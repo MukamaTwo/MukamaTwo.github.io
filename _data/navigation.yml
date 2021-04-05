@@ -1,11 +1,11 @@
 # Site navigation links
 - title: Start
-  url: /start/
+  url: /
   excerpt:
   image: bio-400x250.jpg
 
 - title: Bloggar
-  url: /
+  url: /Bloggar/
   excerpt:
   image:
 
