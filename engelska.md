@@ -8,11 +8,11 @@ image:
   credit: Kadir Celep / Unsplash.com
 ---
 
-## Guest blogging
+## Main blogs
 
 <img src="https://i1.wp.com/www.thenewbieguide.se/wp-content/uploads/2019/10/thenewbiefull-v2.png?resize=305%2C138&ssl=1" alt="Newbie logo"/>
 
-Recently, I started guest blogging on [The Newbie Guide to Sweden](https://www.thenewbieguide.se/){:target="_blank"} to test my english :). I guess it is going good, you tell me. Currently focusing on culture and celebrations within Sweden.
+I have written blogs with [The Newbie Guide to Sweden](https://www.thenewbieguide.se/){:target="_blank"} to test my english :). Mainly focusing on culture and celebrations within Sweden.
 
 Find [all my guest posts with *The Newbie Guide* here >>](https://www.thenewbieguide.se/author/joseph/){:target="_blank"} or just jump directly to what may interest you below.
 
@@ -23,10 +23,8 @@ Find [all my guest posts with *The Newbie Guide* here >>](https://www.thenewbieg
 1. [The Swedish National Day](https://www.thenewbieguide.se/the-swedish-national-day/){:target="_blank"}
 1. [Valborg: the What, the Why, and the How](https://www.thenewbieguide.se/valborg-the-what-the-why-and-the-how/){:target="_blank"}
 
-<hr>
+## Other blogs
 
-<img src="https://www.ananthologyofcovid-19.com/wp-content/uploads/2020/04/covid-logo.png" alt="Website logo"/>
+| <img src="https://www.goworldtravel.com/wp-content/uploads/2020/05/go-world-travel-logo.png" alt="Website logo"/>  | [A winter visit to Abisko, Northern Sweden](https://www.goworldtravel.com/abisko-sweden-arctic-circle/){:target="_blank"} |
 
-Some random ways of life during Covid-19 in Sweden.
-
-1. [COVID-19: The Refined New Normal](https://www.ananthologyofcovid-19.com/covid-19-the-refined-new-normal/){:target="_blank"}
+| <img src="https://www.ananthologyofcovid-19.com/wp-content/uploads/2020/04/covid-logo.png" alt="Website logo"/> | [COVID-19: The Refined New Normal](https://www.ananthologyofcovid-19.com/covid-19-the-refined-new-normal/){:target="_blank"} |
